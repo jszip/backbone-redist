@@ -1,0 +1,15 @@
+Backbone.js
+================================
+
+This is a redistribution of [Backbone.js][1].
+
+To use this module in your projects just add the following dependency:
+
+    <dependency>
+      <groupId>${project.groupId}</groupId>
+      <artifactId>${project.artifactId}</artifactId>
+      <version>${project.version}</version>
+      <type>jszip</type>
+    </dependency>
+
+  [1]: http://backbonejs.org/
