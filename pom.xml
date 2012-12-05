@@ -65,16 +65,24 @@
     <dependency>
       <groupId>org.jszip.redist</groupId>
       <artifactId>underscore</artifactId>
-      <!-- current minimum published underscore version matching requirements of backbone -->
+      <!-- current minimum published underscore version matching requirements of backbone i.e. 1.1.3 -->
       <version>1.2.2</version>
       <type>jszip</type>
     </dependency>
     <dependency>
       <groupId>org.jszip.redist</groupId>
       <artifactId>jquery</artifactId>
-      <!-- current minimum published jQuery version matching requirements of backbone -->
+      <!-- current minimum published jQuery version matching requirements of backbone i.e. 1.4.2 -->
       <version>1.6.3</version>
       <type>jszip</type>
+    </dependency>
+    <dependency>
+     <groupId>org.jszip.redist</groupId>
+     <artifactId>zepto</artifactId>
+     <!-- latest release at the time this version of backbone was released-->
+     <version>0.1.1</version>
+     <type>jszip</type>
+     <optional>true</optional>
     </dependency>
     <dependency>
      <groupId>org.jszip.redist</groupId>
