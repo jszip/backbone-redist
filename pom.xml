@@ -80,7 +80,7 @@
      <groupId>org.jszip.redist</groupId>
      <artifactId>zepto</artifactId>
      <!-- latest release at the time this version of backbone was released-->
-     <version>0.6</version>
+     <version>0.7</version>
      <type>jszip</type>
      <optional>true</optional>
     </dependency>
